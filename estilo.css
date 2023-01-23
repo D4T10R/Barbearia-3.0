@@ -88,3 +88,25 @@ footer {
 footer p {
 	margin-top: 10px;
 }
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+form {
+	margin: 20px 0;
+}
+
+form label {
+	display: block;
+	font-size: 20px;
+	margin: 0 0 20px;
+}
+
+form input {
+	display: block;
+	padding: 10px 25px;
+	margin: 0 0 20px;
+	width: 50%;
+}
